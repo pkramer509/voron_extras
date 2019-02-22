@@ -1,0 +1,3 @@
+[submodule "VORON"]
+	path = VORON
+	url = git@github.com:mzbotreprap/VORON.git
